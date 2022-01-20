@@ -6,10 +6,11 @@ In this project, we are going to create node CRUD application with express and m
 npm install
 ```
 
-Then Create config.env file and create PORT and MONGO_URI Variable and specify Value.
-That's it. You are ready to go. To execute this project just type
+ Create config.env file and create PORT and MONGO_URI Variable and specify Value.
 ```
 npm start
 ```
 
 Enjoy...!
+
+Reference: https://www.youtube.com/watch?v=W1Kttu53qTg
